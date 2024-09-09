@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Apple",
+    "id": 1,
+    "model": "Apple Watch Series 7",
+    "price": 399
+  },
+  {
+    "name": "Samsung",
+    "id": 2,
+    "model": "Galaxy Watch 5",
+    "price": 279
+  },
+  {
+    "name": "Garmin",
+    "id": 3,
+    "model": "Garmin Fenix 7",
+    "price": 699
+  },
+  {
+    "name": "Fitbit",
+    "id": 4,
+    "model": "Fitbit Versa 3",
+    "price": 229
+  },
+  {
+    "name": "Huawei",
+    "id": 5,
+    "model": "Huawei Watch GT 3",
+    "price": 249
+  }
+]
